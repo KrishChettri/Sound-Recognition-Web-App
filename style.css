@@ -1,0 +1,41 @@
+body{
+    font-family: "Kaushan Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background: rgb(183, 228, 243);
+}
+
+.header_div{
+    background: white;
+    color: black;
+}
+
+.header_div p{
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: black;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family:'Roboto Slab', serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
